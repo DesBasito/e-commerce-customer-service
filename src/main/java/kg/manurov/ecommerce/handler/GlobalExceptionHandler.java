@@ -1,6 +1,5 @@
 package kg.manurov.ecommerce.handler;
 
-import kg.manurov.ecommerce.dto.ErrorResponseBody;
 import kg.manurov.ecommerce.errors.CustomerNotFoundException;
 import kg.manurov.ecommerce.services.ErrorService;
 import lombok.RequiredArgsConstructor;

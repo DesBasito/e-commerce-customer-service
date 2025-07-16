@@ -1,4 +1,4 @@
-package kg.manurov.ecommerce.dto;
+package kg.manurov.ecommerce.handler;
 
 import java.util.List;
 import java.util.Map;

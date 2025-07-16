@@ -1,7 +1,7 @@
 package kg.manurov.ecommerce.services;
 
 import jakarta.validation.ConstraintViolation;
-import kg.manurov.ecommerce.dto.ErrorResponseBody;
+import kg.manurov.ecommerce.handler.ErrorResponseBody;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
