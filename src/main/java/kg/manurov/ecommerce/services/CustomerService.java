@@ -1,6 +1,5 @@
 package kg.manurov.ecommerce.services;
 
-import jakarta.validation.Valid;
 import kg.manurov.ecommerce.customer.Customer;
 import kg.manurov.ecommerce.dto.CustomerRequest;
 import kg.manurov.ecommerce.dto.CustomerResponse;
@@ -12,7 +11,6 @@ import org.apache.commons.lang.StringUtils;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.NoSuchElementException;
 
 @Service
 @RequiredArgsConstructor
